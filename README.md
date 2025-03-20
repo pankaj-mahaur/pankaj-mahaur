@@ -1,5 +1,5 @@
 <div align ="center" size = "20px">
-![FB_IMG_1665229259190](https://github.com/user-attachments/assets/bcd4a140-50c2-4cb0-96b6-42321cb719ba)
+<img src = "https://github.com/user-attachments/assets/bcd4a140-50c2-4cb0-96b6-42321cb719ba" width = "200px">
 </div>
 
 ###
