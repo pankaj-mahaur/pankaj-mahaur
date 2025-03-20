@@ -110,20 +110,10 @@ I'm a passionate **Computer Science and Information Technology** student with a 
 
 ## 🎉 Fun Fact
 
-I'm not just a coder; I'm also an **award-winning badminton player**! 🏸
+I'm not just a coder; I'm also an **award-winning badminton player** **part-time Photographer** **a Cook**! 🏸
 
 ---
 
 ### 💬 Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
-</picture>
-------
-<img src="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/snake.svg" alt="Snake animation" />
-
-###
