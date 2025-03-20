@@ -3,7 +3,7 @@
 </div>
 
 ###
-# Hi there, I'm Pankaj Kumar! 👋
+# Hi there, I'm Pankaj Kumar! 🤘
 
 🎓 **Final Year CSIT Student** at **Mahatma Jyotibha Phule Rohilkhand University** 
 💻 **Web Developer** | 🏸 **Award-Winning Badminton Player** | 🌱 **Volunteer Educator**
