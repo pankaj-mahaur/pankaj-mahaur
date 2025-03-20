@@ -1,3 +1,8 @@
+<div align ="center" size = "20px">
+![FB_IMG_1665229259190](https://github.com/user-attachments/assets/bcd4a140-50c2-4cb0-96b6-42321cb719ba)
+</div>
+
+###
 # Hi there, I'm Pankaj Kumar! 👋
 
 🎓 **Final Year CSIT Student** at **Mahatma Jyotibha Phule Rohilkhand University** 
@@ -113,6 +118,10 @@ I'm not just a coder; I'm also an **award-winning badminton player**! 🏸
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
+</picture>
 
-![GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
