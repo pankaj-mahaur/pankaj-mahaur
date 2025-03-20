@@ -123,5 +123,7 @@ I'm not just a coder; I'm also an **award-winning badminton player**! 🏸
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
 </picture>
+------
+<img src="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/snake.svg" alt="Snake animation" />
 
-
+###
