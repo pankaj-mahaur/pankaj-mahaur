@@ -51,7 +51,8 @@ Other Tools
 
 ## 📌 Projects
 
-### AyurNod (Personal AI Health Assistant)
+### ### [AyurNod (Personal AI Health Assistant)](https://ayurnod.in)
+
 A Jarvis‑like AI assistant for personal health — learns from daily habits and gives simple, actionable guidance.  
 Built full‑stack with mobile, web, and backend systems.
 
