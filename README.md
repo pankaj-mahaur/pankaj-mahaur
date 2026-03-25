@@ -4,7 +4,7 @@
 
 # Hi, I'm Pankaj Kumar 👋
 
-**Full Stack Developer | Building scalable web products**
+Full Stack Developer | Building scalable web products
 
 📍 India | 🌍 Open to collaboration
 
@@ -12,27 +12,27 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Developer at Mobiux Labs** focused on building modern web applications and turning ideas into real digital products.
+I am a Full Stack Developer at Mobiux Labs focused on building modern web applications and turning ideas into real digital products.
 
 I enjoy working across the stack — designing clean interfaces, building scalable systems, and delivering production-ready solutions.
 
-I’m passionate about **learning fast, building useful tools, and solving real problems through software.**
+I’m passionate about learning fast, building useful tools, and solving real problems through software.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Frontend**
+Frontend
 - Next.js
 - React
 - Tailwind CSS
 - JavaScript
 
-**Backend**
+Backend
 - Node.js
 - REST APIs
 
-**Other Tools**
+Other Tools
 - Git & GitHub
 - VS Code
 - WordPress
@@ -42,44 +42,56 @@ I’m passionate about **learning fast, building useful tools, and solving real 
 
 ## 🧩 What I Like Working On
 
-- Full-stack web applications  
-- Product-focused development  
-- UI performance and clean architecture  
-- Building tools that solve real problems  
+- Full-stack web applications 
+- Product-focused development 
+- UI performance and clean architecture 
+- Building tools that solve real problems 
 
 ---
 
 ## 📌 Projects
 
+### AyurNod (Personal AI Health Assistant)
+A Jarvis‑like AI assistant for personal health — learns from daily habits and gives simple, actionable guidance.  
+Built full‑stack with mobile, web, and backend systems.
+
+**Highlights**
+- Smooth mobile UX (chat resume, plan drafts, wearables sync)  
+- Reliable auth + stable API handling  
+- Clean architecture for scale
+
+**Tech Stack**
+React Native, Expo, Next.js, Fastify, TypeScript, PostgreSQL/SQLite, Redis, PM2
+
 ### File Tracking System
-Department-level file management system built with **PHP, MySQL, HTML, CSS, JavaScript**.  
+Department-level file management system built with PHP, MySQL, HTML, CSS, JavaScript. 
 Includes role-based access and tracking for improved workflow efficiency.
 
 ### Checkers AI Game
-Python-based board game implementing the **Minimax algorithm** with a Pygame interface.
+Python-based board game implementing the Minimax algorithm with a Pygame interface.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Gold Medalist — Badminton (MJRPU)  
-- 🎓 WordPress Certification — Internshala  
+- 🥇 Gold Medalist — Badminton (MJRPU) 
+- 🎓 WordPress Certification — Internshala 
 
 ---
 
 ## 📫 Connect With Me
 
-- **LinkedIn**  
-  https://www.linkedin.com/in/pankaj-mahaur
+- LinkedIn 
+ https://www.linkedin.com/in/pankaj-mahaur
 
-- **Email**  
-  pankajmahaur2003@gmail.com
+- Email 
+ pankajmahaur2003@gmail.com
 
 ---
 
-## ⚡ Fun Fact
+## ⚡️ Fun Fact
 
-Outside coding, I enjoy **badminton, photography, and experimenting with cooking.**
+Outside coding, I enjoy badminton, photography, and experimenting with cooking.
 
 ---
 
@@ -88,7 +100,7 @@ Outside coding, I enjoy **badminton, photography, and experimenting with cooking
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
+ <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pankaj-mahaur/pankaj-mahaur/output/pacman-contribution-graph.svg">
 </picture>
