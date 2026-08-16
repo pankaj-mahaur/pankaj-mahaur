@@ -1,92 +1,87 @@
-<div align="center">
-<img src="https://github.com/user-attachments/assets/bcd4a140-50c2-4cb0-96b6-42321cb719ba" width="200px">
-</div>
+# Hi, I'm Pankaj 👋
 
-# Hi, I'm Pankaj Kumar 👋
+Full-stack developer at **Mobiux Labs**. I build web products end to end — Next.js and React on the
+front, Node/Fastify, Django and FastAPI behind them — and I spend most of my spare time building
+AI systems and shipping them properly rather than leaving them as demos.
 
-Full Stack Developer | Building scalable web products
-
-📍 India | 🌍 Open to collaboration
+Based in India. Open to remote work.
 
 ---
 
-## 👨‍💻 About Me
+## What I've built
 
-I am a Full Stack Developer at Mobiux Labs focused on building modern web applications and turning ideas into real digital products.
+### [Agent-Daemon](https://github.com/pankaj-mahaur/Agent-Daemon) · open source, MIT
+A runtime that gives AI coding agents memory and lets several of them work in parallel.
 
-I enjoy working across the stack — designing clean interfaces, building scalable systems, and delivering production-ready solutions.
+- Agents run in isolated **git worktrees** and coordinate through atomic message files — no server,
+  no database, no API key required
+- Memory is **SQLite + FTS5** on a reinforce → decay → consolidate lifecycle, served back through an
+  **MCP server** with progressive disclosure so recall stays cheap
+- Agent transcripts are untrusted input, so injection attempts are quarantined by a **deterministic
+  screen** rather than asking a model to police itself
+- **301 tests**, GitHub Actions CI on Linux, macOS and Windows
+- Adapters for Claude Code, Codex and Cursor
 
-I’m passionate about learning fast, building useful tools, and solving real problems through software.
+`Node.js · TypeScript · SQLite · MCP · git worktrees`
 
----
+### [AyurNod](https://ayurnod.in) · live
+A health platform I built alone across three surfaces from one npm-workspaces monorepo.
 
-## 🚀 Tech Stack
+- **Expo/NativeWind** mobile app, **Next.js** website, **Fastify + TypeScript** API, shared types package
+- The AI layer falls back across models when one fails, and runs a multi-agent diagnostic pipeline
+- A guardian module detects emergencies and interrupts the conversation — the interesting problem in
+  health AI isn't the model, it's knowing when to stop it
+- Runs on Postgres, Redis and PM2 on a VPS I manage
 
-Frontend
-- Next.js
-- React
-- Tailwind CSS
-- JavaScript
+### [Aurum & Isle](https://aurumisle.com) · live, taking real payments
+A store I migrated off Shopify onto self-hosted **Medusa**, and now run myself.
 
-Backend
-- Node.js
-- REST APIs
+- Next.js storefront against a Medusa API, Postgres 16 and Redis on one VPS I administer
+- Cards, UPI, netbanking and wallets — verified with real orders, not test mode
+- I own the whole thing: DNS, TLS, deploys, admin
 
-Other Tools
-- Git & GitHub
-- VS Code
-- WordPress
-- MySQL
+### Genfield · in development
+An AI studio with six workspaces — image, video, lip sync, cinema, voice and avatar — orchestrating
+around thirty models behind one interface, with your brand kit and history following you between
+them. The Cinema workspace models real optical physics per shot instead of showing you a prompt box.
+Designed to be self-hosted with your own inference key.
 
----
+`Next.js · React · TypeScript · Supabase`
 
-## 🧩 What I Like Working On
-
-- Full-stack web applications 
-- Product-focused development 
-- UI performance and clean architecture 
-- Building tools that solve real problems 
-
----
-
-## 📌 Projects
-
-### ### [AyurNod (Personal AI Health Assistant)](https://ayurnod.in)
-
-A Jarvis‑like AI assistant for personal health — learns from daily habits and gives simple, actionable guidance.  
-Built full‑stack with mobile, web, and backend systems.
-
-**Highlights**
-- Smooth mobile UX (chat resume, plan drafts, wearables sync)  
-- Reliable auth + stable API handling  
-- Clean architecture for scale
-
-**Tech Stack**
-React Native, Expo, Next.js, Fastify, TypeScript, PostgreSQL/SQLite, Redis, PM2
-
-### File Tracking System
-Department-level file management system built with PHP, MySQL, HTML, CSS, JavaScript. 
-Includes role-based access and tracking for improved workflow efficiency.
-
-### Checkers AI Game
-Python-based board game implementing the Minimax algorithm with a Pygame interface.
+### OpenCreator · in development
+A serverless-GPU pipeline for lip-synced avatar video — MuseTalk and GPT-SoVITS voice cloning across
+RunPod workers, split into web/worker/storage packages.
 
 ---
 
-## 🏆 Achievements
+## At work
 
-- 🥇 Gold Medalist — Badminton (MJRPU) 
-- 🎓 WordPress Certification — Internshala 
+- **Sole developer on two client platforms** — built on Next.js 16, React 19 and Tailwind v4,
+  static-first with a CI check that fails the build if a route stops being prerendered
+- Built a **RAG chat** on a client platform: hybrid keyword and semantic retrieval over Typesense and
+  OpenAI, streamed over SSE with cited sources, with search clients split by trust boundary so admin
+  keys can't reach a browser bundle
+- Top contributor on an internal **Django + Celery + Postgres + Redis** platform and its Next.js front end
+- Worked on an AI car-buying assistant: **FastAPI** and async SQLAlchemy, OpenAI function calling,
+  Gemini for reading VINs from photos, realtime voice over WebRTC
 
 ---
 
-## 📫 Connect With Me
+## Stack
 
-- LinkedIn 
- https://www.linkedin.com/in/pankaj-mahaur
+**Front end** — Next.js (App Router, Server Components), React, React Native + Expo, TypeScript, Tailwind
+**Back end** — Node, Fastify, Django, Celery, FastAPI, Postgres, MongoDB, SQLite, Redis, Prisma, Typesense
+**AI** — RAG & hybrid search, agent orchestration, MCP servers, model fallback chains, realtime voice, prompt-injection guards
+**Platform** — Git, GitHub Actions, Docker, PM2, Nginx, VPS administration, Vercel, Supabase, Payload CMS
 
-- Email 
- pankajmahaur2003@gmail.com
+---
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/pankaj-mahaur) · pankajmahaur2003@gmail.com
+
+Outside code: badminton (university gold medal, doubles), photography, and cooking things I haven't
+made before.
 
 ---
 
