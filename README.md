@@ -6,6 +6,8 @@ AI systems and shipping them properly rather than leaving them as demos.
 
 Based in India. Open to remote work.
 
+Portfolio - https://pankaj-mahaur.com/
+
 ---
 
 ## What I've built
